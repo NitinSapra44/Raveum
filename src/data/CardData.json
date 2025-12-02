@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Cash Account",
+    "subtitle": "Earn more interest on your cash",
+    "description": "As a new client, you can earn a high 4.15% annual percentage yield (APY)...",
+    "features": [
+      "No account fees",
+      "Free 24/7 instant withdrawals",
+      "Up to $8M FDIC insurance through program banks"
+    ],
+    "primaryBtn": { "text": "Start Saving With $1" },
+    "secondaryBtn": { "text": "Learn More" },
+    "disclaimer": "Base APY as of 11/7/25 and subject to change.",
+    "image": "/images/cash-account.png"
+  },
+
+  {
+    "title": "Automated Investing Account",
+    "subtitle": "Invest confidently with our expert-built portfolios",
+    "description": "Our classic and socially responsible portfolios are designed to weather any market condition over time. We'll handle the reinvesting and rebalancing, keep your fees low, and help you save money on taxes so you can invest with ease.",
+    "features": [
+      "Globally diversified portfolios",
+      "Personalized to your risk level and optimized to your tax situation",
+      "Unlock tax savings with Tax-Loss Harvesting"
+    ],
+    "primaryBtn": { "text": "Get Started" },
+    "secondaryBtn": { "text": "Learn More" },
+    "image": "/images/investment.png"
+  },
+    {
+    "title": "Wealthfront S&P 500 Direct",
+    "subtitle": "Upgrade your S&P 500® investing and access tax savings",
+    "description": "Own individual stocks of the S&P 500® index in an automated portfolio that can help lower your tax bill—especially if you have capital gains from your stock compensation or other investments.",
+    "features": [
+      "Invest in stocks of the S&P 500®",
+      "Unlock tax savings with Tax-Loss Harvesting",
+      "Low 0.09% fee"
+    ],
+    "primaryBtn": { "text": "Get Started" },
+    "secondaryBtn": { "text": "Learn More" },
+    "image": "/images/investment.png"
+  }
+]
